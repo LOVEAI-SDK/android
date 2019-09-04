@@ -37,7 +37,7 @@ Register service(lib.loveai.com.mylib.BluetoothService) and activity(lib.loveai.
 						android:theme="@style/my_theme"
 						android:screenOrientation="portrait"/>
 						
-Connect LOVEAI Toys
+Connect to the LOVEAI toys
 
 There are only 2 steps to use LOVEAI SDK:
 
@@ -51,9 +51,9 @@ There are only 2 steps to use LOVEAI SDK:
         sendBroadcast(intent);
 
 
-COMMAND lIST
+COMMAND LIST
 
-        RateUtils.RATE_01(RATE_20)  -- Vibrate the toy .The parameter must be between 10 and 20.
+        RateUtils.RATE_01(RATE_20)  -- Vibrate the toy .The parameter must be between 01 and 20.
         RateUtils.STOP -- Stop vibrate the toy.
         RateUtils.GET_BATTERY -- Get battery status.
         RateUtils.POWER_OFF -- Turn off the toy.
@@ -61,3 +61,9 @@ COMMAND lIST
         RateUtils.LIGHT_ON -- Turn on the light
 
  For more information, you can refer to the sample program.
+ 
+ Products can be purchased from the following websites:
+ 
+ https://www.amazon.com/dp/B07RWC273G
+ 
+ https://item.taobao.com/item.htm?spm=a2oq0.12575281.0.0.25911debYCTzn5&ft=t&id=581407108602
