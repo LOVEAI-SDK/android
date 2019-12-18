@@ -64,6 +64,6 @@ COMMAND LIST
  
  Products can be purchased from the following websites:
  
- https://www.amazon.com/dp/B0825RZNL
+ https://www.amazon.com/dp/B082D8G592
  
  https://item.taobao.com/item.htm?spm=a2oq0.12575281.0.0.25911debYCTzn5&ft=t&id=581407108602
